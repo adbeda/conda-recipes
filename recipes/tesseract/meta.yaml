@@ -32,7 +32,7 @@ requirements:
   host:
     - giflib  # [not win]
     - jpeg
-    - leptonica
+   # - leptonica
     - libpng
     - libtiff
     - libwebp
